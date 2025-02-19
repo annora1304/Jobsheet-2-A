@@ -1,4 +1,4 @@
-public class MahasiswaMain12 {
+public class Modifikasi2 {
     String nama;
     String nim;
     String kelas;
@@ -17,9 +17,8 @@ public class MahasiswaMain12 {
     void updateIpk(double ipkBaru) {
         ipk = ipkBaru;
     }
-
     public static void main(String[] args) {
-        MahasiswaMain12 mhs1 = new MahasiswaMain12();
+        MahasiswaMain12 mhs1 = new MahasiswaMain12(); 
 
         mhs1.nama = "Muhammad Ali Farhan";
         mhs1.nim = "2241720171";
